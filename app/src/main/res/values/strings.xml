@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">QuickNote</string>
     <string name="tvLU">Last Updated :</string>
+    <string name="sharedPreferenceKey">SPK</string>
+    <string name="etKey">etKey</string>
+    <string name="bk">bk</string>
+    <string name="clear">Clear</string>
+    <string name="file_name">Product.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No Notes File Present</string>
+    <string name="saved">Note Saved</string>
 </resources>
